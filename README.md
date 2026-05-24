@@ -13,7 +13,7 @@
 | Size                  | Размер датасета                               | ~10,000 rows |
 | Source                | Источник                                      | TMDB API |
 | name                  | Публичное имя                                 | 7662 unique values |
-| gender                | Кодировка пола                                | 0–3 |
+| gender                | Кодировка поля                                | 0–3 |
 | known_for_department  | Основная сфера деятельности                   | Acting 93% |
 | original_name         | Оригинальное имя                              | 7665 unique values |
 | popularity            | Индекс популярности                           | 0.58 – 48 |
